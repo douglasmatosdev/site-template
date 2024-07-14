@@ -1,0 +1,56 @@
+{
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "contact": "Contato",
+    "pages": "Páginas"
+  },
+  "footer": {
+    "copy": "Todos os Direitos Reservados"
+  },
+  "page": {
+    "home": {
+      "title": "Incíco",
+      "description": "Descrição do site aqui",
+      "slogan": "Seu slogan aqui",
+      "overview": {
+        "title": "Visão geral título principal",
+        "p1": "Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.",
+        "h2p2": "Visão geral subtítulo:",
+        "p2": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis."
+      },
+      "about": {
+        "title": "Sobre",
+        "p1": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.",
+        "read_more": "Saiba mais"
+      },
+      "latest_posts": {
+        "title": "Últimos posts",
+        "read_more": "Saiba mais"
+      },
+      "contact": {
+        "title": "Contato",
+        "p1": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.",
+        "read_more": "Saiba mais"
+      }
+    },
+    "portfolio": {
+      "title": "Portfólio",
+      "description": "Está página contém alguns pequenos projetos desenvolvidos a fim de praticar.",
+      "button_online": "Veja a aplicação online",
+      "button_repository": "Veja o repositório do projeto"
+    },
+    "about": {
+      "title": "Sobre",
+      "name": "Nome",
+      "message": "Mensagem",
+      "description": "Sua descrição aqui.",
+      "p1": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis."
+    },
+    "contact": {
+      "title": "Contato",
+      "subtitle": "Envie um e-mail",
+      "description": "Entre em contato. Tentarei responder, mas isso pode demorar um pouco, pois sou ocupado."
+    }
+  }
+}

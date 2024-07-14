@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --dmds-1: #fff;
+  --dmds-2: #222;
+  --dmds-3: #444;
+  --dmds-4: #999;
+  --dmds-5: #bebebe;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --dmds-1: #fff;
+    --dmds-2: #222;
+    --dmds-3: #444;
+    --dmds-4: #999;
+    --dmds-5: #bebebe;
+  }
+}
+
+@layer components {
+  @keyframes logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes logo-spin-reverse {
+    from {
+      transform: rotate(360deg);
+    }
+
+    to {
+      transform: rotate(0deg);
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .animation-rotate {
+      animation: logo-spin infinite 20s linear;
+    }
+
+    .animation-rotate-reverse {
+      animation: logo-spin-reverse infinite 20s linear;
+    }
+  }
+
+  img[alt="if-then-else-diagram-image"] {
+    width: 250px;
+    background-color: #fff;
+  }
+}
+
+*,
+html,
+body {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+strong {
+  font-weight: 900;
+}
+
+b {
+  font-weight: 700;
+}

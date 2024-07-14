@@ -1,0 +1,56 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "pages": "Pages"
+  },
+  "footer": {
+    "copy": "All Rights Reserved"
+  },
+  "page": {
+    "home": {
+      "title": "Home",
+      "description": "Site description here",
+      "slogan": "Your slogan here",
+      "overview": {
+        "title": "Overview main title",
+        "p1": "Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor.",
+        "h2p2": "Overview subtitle:",
+        "p2": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis."
+      },
+      "about": {
+        "title": "About",
+        "p1": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.",
+        "read_more": "Learn more"
+      },
+      "latest_posts": {
+        "title": "Latest posts",
+        "read_more": "Read more"
+      },
+      "contact": {
+        "title": "Contact",
+        "p1": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.",
+        "read_more": "Learn more"
+      }
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "This page contains some small projects developed for practice.",
+      "button_online": "See the application online",
+      "button_repository": "See project repository"
+    },
+    "about": {
+      "title": "About",
+      "name": "Name",
+      "message": "Message",
+      "description": "Your description here.",
+      "p1": "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis."
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Send me a e-email",
+      "description": "Contact. I'll try to respond, but it may take a while as I'm busy."
+    }
+  }
+}
