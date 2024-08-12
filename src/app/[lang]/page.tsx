@@ -87,7 +87,6 @@ export default async function Home({ params: { lang } }: { params: { lang: Local
                     <LinkI18n href="/pages/contact">{page.home.contact.title}</LinkI18n>
                 </h2>
                 <Paragraph>{page.home.contact.p1}</Paragraph>
-                <Paragraph>{page.home.contact.p2}</Paragraph>
                 <button
                     type="button"
                     className="hover:bg-white transition-all duration-300 rounded-md bg-dmds-5 dark:text-dmds-2 px-4 py-2 text-xl mt-6"
