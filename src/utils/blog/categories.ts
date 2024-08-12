@@ -82,8 +82,5 @@ export default async function blogCategories(): Promise<CategoryTree[]> {
         parentEl.children = [...(parentEl.children || []), el]
     })
 
-    // console.clear()
-    // console.log(JSON.stringify(categories, null, 2))
-
     return categories
 }
