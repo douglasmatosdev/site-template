@@ -5,12 +5,6 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: 'raw.githubusercontent.com',
-                port: '',
-                pathname: '/douglasmatosdev/**'
-            },
-            {
-                protocol: 'https',
                 hostname: 's3.amazonaws.com',
                 port: '',
                 pathname: '/hr-challenge-images/**'
